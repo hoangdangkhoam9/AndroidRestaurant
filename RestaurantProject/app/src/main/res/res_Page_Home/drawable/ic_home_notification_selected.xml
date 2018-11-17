@@ -1,0 +1,4 @@
+<vector android:height="24dp" android:viewportHeight="40"
+    android:viewportWidth="40" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#42b72a" android:name="Notification" android:pathData="m19 0v4.04h-0c-7.25 0.51 -13 6.58 -13 13.96v14h-2v2h9.07c0.49 3.39 3.41 6 6.93 6c3.52 0 6.44 -2.61 6.93 -6h9.07v-2h-2v-14c0 -7.38 -5.75 -13.45 -13 -13.96v-4.04z"/>
+</vector>
